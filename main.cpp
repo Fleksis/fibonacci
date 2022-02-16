@@ -9,7 +9,7 @@ int main() {
       std::cin >> masivs[i];      // aizpildam masīvu
   }
 
-  // jūsu kods zemāk 
+  // mans kods
 
   int skaitlis1, skaitlis2, summa, pareizs;
   long masivs2[20];
